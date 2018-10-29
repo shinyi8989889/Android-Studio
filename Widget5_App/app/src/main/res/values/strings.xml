@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wedget5_APP</string>
+    <string name="input_hint">Please input text</string>
+    <string name="name_hint">Please input your name</string>
+</resources>

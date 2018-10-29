@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city">
+        <item>Taipei</item>
+        <item>Hsinchu</item>
+        <item>Taichung</item>
+    </string-array>
+
+    <string-array name="fastfood">
+        <item>Coca Light</item>
+        <item>Coca Zero</item>
+        <item>Coca</item>
+        <item>French Fries</item>
+        <item>Hamburger</item>
+        <item>KFC</item>
+    </string-array>
+</resources>
